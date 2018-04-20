@@ -6,3 +6,4 @@ while i > collection.length
  if yield(collection[i])
 end
 end 
+end 
